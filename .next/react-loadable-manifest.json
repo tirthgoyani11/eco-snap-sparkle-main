@@ -1,4 +1,10 @@
 {
+  "../app/ar-preview/page.tsx -> @/components/ARPreview": {
+    "id": "../app/ar-preview/page.tsx -> @/components/ARPreview",
+    "files": [
+      "static/chunks/_app-pages-browser_components_ARPreview_tsx.js"
+    ]
+  },
   "../app/scanner/page.tsx -> @/components/BarcodeInput": {
     "id": "../app/scanner/page.tsx -> @/components/BarcodeInput",
     "files": [
