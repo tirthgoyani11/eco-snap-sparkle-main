@@ -1,4 +1,4 @@
-export { EcoBadge } from "@/src/components/EcoBadge";
+export { EcoBadge, getBadgeType } from "@/src/components/EcoBadge";
 export type { };
 
 
