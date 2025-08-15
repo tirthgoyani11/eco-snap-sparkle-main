@@ -9,8 +9,8 @@ import dynamic from 'next/dynamic';
 import fallbackPool from '@/data/fallback-products.json';
 import { addScan } from '@/lib/storage';
 
-const CameraInput = dynamic(() => import('@/components/CameraInput'), { ssr: false });
-const BarcodeInput = dynamic(() => import('@/components/BarcodeInput'), { ssr: false });
+const CameraInput = dynamic(() => import('@/components/CameraInput').then(mod => mod.default), { ssr: false });
+const BarcodeInput = dynamic(() => import('@/components/BarcodeInput').then(mod => mod.default), { ssr: false });
 
 export default function ScannerPage() {
   const [loading, setLoading] = useState(false);
