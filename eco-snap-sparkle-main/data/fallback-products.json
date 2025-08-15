@@ -1,0 +1,23 @@
+[
+  { "name": "Eco Dish Soap", "brand": "PureClean", "category": "household", "image": "/placeholder.svg", "packaging": "recyclable bottle", "labels": ["organic"], "estScore": 85 },
+  { "name": "Bamboo Toothbrush", "brand": "GreenSmile", "category": "personal care", "image": "/placeholder.svg", "packaging": "biodegradable", "labels": ["fsc"], "estScore": 90 },
+  { "name": "Organic Granola", "brand": "NatureBite", "category": "cereals", "image": "/placeholder.svg", "packaging": "recyclable", "labels": ["organic", "fair-trade"], "estScore": 88 },
+  { "name": "Reusable Water Bottle", "brand": "HydraEco", "category": "accessories", "image": "/placeholder.svg", "packaging": "reusable", "labels": ["sustainable"], "estScore": 92 },
+  { "name": "Plant-based Milk", "brand": "Leafy", "category": "beverages", "image": "/placeholder.svg", "packaging": "recyclable carton", "labels": ["organic"], "estScore": 80 },
+  { "name": "Fair-trade Coffee", "brand": "GoodBean", "category": "beverages", "image": "/placeholder.svg", "packaging": "recyclable", "labels": ["fair-trade"], "estScore": 87 },
+  { "name": "Compostable Trash Bags", "brand": "BioBag", "category": "household", "image": "/placeholder.svg", "packaging": "compostable", "labels": ["biodegradable"], "estScore": 89 },
+  { "name": "Organic Dark Chocolate", "brand": "CocoaPure", "category": "snacks", "image": "/placeholder.svg", "packaging": "recyclable", "labels": ["organic", "fair-trade"], "estScore": 86 },
+  { "name": "Refillable Hand Soap", "brand": "RefillCo", "category": "personal care", "image": "/placeholder.svg", "packaging": "refillable", "labels": ["sustainable"], "estScore": 84 },
+  { "name": "Eco Laundry Detergent", "brand": "ClearWash", "category": "household", "image": "/placeholder.svg", "packaging": "recyclable", "labels": ["biodegradable"], "estScore": 83 },
+  { "name": "Organic Pasta", "brand": "GranoVerde", "category": "pasta", "image": "/placeholder.svg", "packaging": "recyclable", "labels": ["organic"], "estScore": 82 },
+  { "name": "Glass Food Containers", "brand": "KeepFresh", "category": "kitchen", "image": "/placeholder.svg", "packaging": "reusable", "labels": ["sustainable"], "estScore": 91 },
+  { "name": "Beeswax Wraps", "brand": "BeeGreen", "category": "kitchen", "image": "/placeholder.svg", "packaging": "reusable", "labels": ["biodegradable"], "estScore": 90 },
+  { "name": "Organic Oats", "brand": "FarmRoots", "category": "cereals", "image": "/placeholder.svg", "packaging": "recyclable", "labels": ["organic"], "estScore": 84 },
+  { "name": "Recycled Paper Towels", "brand": "CycleSoft", "category": "household", "image": "/placeholder.svg", "packaging": "recyclable", "labels": ["fsc"], "estScore": 80 },
+  { "name": "Organic Shampoo Bar", "brand": "LeafLather", "category": "personal care", "image": "/placeholder.svg", "packaging": "compostable", "labels": ["organic"], "estScore": 88 },
+  { "name": "Solar Garden Lights", "brand": "SunGlow", "category": "outdoor", "image": "/placeholder.svg", "packaging": "recyclable", "labels": ["sustainable"], "estScore": 93 },
+  { "name": "Eco Deodorant", "brand": "PurePits", "category": "personal care", "image": "/placeholder.svg", "packaging": "recyclable", "labels": ["biodegradable"], "estScore": 82 },
+  { "name": "Local Honey", "brand": "BeeLocal", "category": "condiments", "image": "/placeholder.svg", "packaging": "recyclable glass", "labels": ["sustainable"], "estScore": 85 },
+  { "name": "Organic Peanut Butter", "brand": "NuttyNature", "category": "spreads", "image": "/placeholder.svg", "packaging": "recyclable", "labels": ["organic"], "estScore": 86 }
+]
+

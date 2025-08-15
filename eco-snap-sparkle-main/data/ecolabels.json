@@ -1,0 +1,10 @@
+[
+  { "key": "organic", "label": "Organic", "emoji": "🌱" },
+  { "key": "fair-trade", "label": "Fair Trade", "emoji": "🤝" },
+  { "key": "fsc", "label": "FSC Certified", "emoji": "🌳" },
+  { "key": "recyclable", "label": "Recyclable", "emoji": "♻️" },
+  { "key": "biodegradable", "label": "Biodegradable", "emoji": "🍃" },
+  { "key": "cruelty-free", "label": "Cruelty Free", "emoji": "🐰" },
+  { "key": "sustainable", "label": "Sustainable", "emoji": "🌍" }
+]
+
