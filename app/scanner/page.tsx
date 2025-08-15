@@ -3,14 +3,14 @@ import { useCallback, useMemo, useRef, useState } from 'react';
 import { ScoreRing } from '@/components/ScoreRing';
 import { EcoBadge } from '@/components/EcoBadge';
 import { AlternativeCard } from '@/components/AlternativeCard';
-import type { AlternativesResp, EcoScoreResp, ProductMeta, VisionResp } from '@/lib/types';
+import type { AlternativesResp, EcoScoreResp, ProductMeta, VisionResp } from '@/src/lib/types';
 import { Button } from '@/src/components/ui/button';
 import dynamic from 'next/dynamic';
 import fallbackPool from '@/data/fallback-products.json';
-import { addScan } from '@/lib/storage';
+import { addScan } from '@/src/lib/storage';
 
-const CameraInput = dynamic(() => import('@/components/CameraInput').then(mod => mod.default), { ssr: false });
-const BarcodeInput = dynamic(() => import('@/components/BarcodeInput').then(mod => mod.default), { ssr: false });
+const CameraInput = dynamic(() => import('@/src/components/CameraInput').then(mod => mod.default), { ssr: false });
+const BarcodeInput = dynamic(() => import('@/src/components/BarcodeInput').then(mod => mod.default), { ssr: false });
 
 export default function ScannerPage() {
   const [loading, setLoading] = useState(false);
